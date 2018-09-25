@@ -5,15 +5,13 @@
  */
 package builder;
 
-
-public class CarroProduct {
-
-    double preco;
-    String dscMotor;
-    int anoDeFabricacao;
+/**
+ *
+ * @author eduardo
+ */
+public class Celular {
+    String cor;
+    String fabricante;
     String modelo;
-    String montadora;
-
-   
-    
+    int anoFab;
 }
