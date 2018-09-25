@@ -1,0 +1,17 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package abstractfact;
+
+/**
+ *
+ * @author eduardo
+ */
+public abstract class CarroFactory {
+    
+    public abstract Roda montarRoda();
+    public abstract Som montarSom();
+    
+}
