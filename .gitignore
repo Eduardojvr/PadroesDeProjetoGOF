@@ -19,3 +19,5 @@
 .DS_Store
 /Estruturais/Decorator/Exemplo1Decorator/nbproject/private/
 /Estruturais/Decorator/Exemplo1Decorator/build/
+/Criacionais/FactoryMethod/Exemplo3FactoryMethod/nbproject/private/
+/Criacionais/FactoryMethod/Exemplo3FactoryMethod/build/
