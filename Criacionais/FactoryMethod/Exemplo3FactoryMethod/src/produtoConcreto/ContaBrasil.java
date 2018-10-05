@@ -12,7 +12,6 @@ import produtoAbstrato.ContaFacebook;
  * @author eduardo
  */
 public class ContaBrasil extends ContaFacebook{
-
     @Override
     public String infoConta() {
         return "Conta Brasileira!!";

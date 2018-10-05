@@ -8,7 +8,8 @@ import produtoAbstrato.ContaFacebook;
 
 public class Test {
     public static void main(String[] args) {
-        ContaFacebook contabr = new BrContaFactory().criarConta();
+        BrContaFactory fabricabr = new BrContaFactory();
+        ContaFacebook contabr = fabricabr.criarConta();
         System.out.println(contabr.infoConta());
         
         
