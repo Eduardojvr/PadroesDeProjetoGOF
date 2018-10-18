@@ -16,13 +16,21 @@ public class teste {
         
         t1.mostrarTexto();
   
-        t1.desfazer();
+//        t1.desfazer();
         
         t1.mostrarTexto();
         
         t1.escreverTexto("Novo texto!");
         t1.mostrarTexto();
         
+        t1.desfazer();
+        t1.desfazer();
+        t1.desfazer();
+                t1.desfazer();
+
+                
+        t1.mostrarTexto();
+     
    
 
 
